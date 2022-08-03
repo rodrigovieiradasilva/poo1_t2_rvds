@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// check:<<<erro: e a cçasse círculo?>>>>
 public class AreaCirculo {
 
     public static void main(String args[]){
